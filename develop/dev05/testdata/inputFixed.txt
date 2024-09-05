@@ -1,0 +1,7 @@
+This is an exact line.
+Another exact line.
+Exact in the middle.
+Last exact line.
+Some exact matches here.
+Just some text.
+End of the file.

@@ -1,0 +1,6 @@
+92093 ttys002    0:00.29 /bin/zsh -il
+11744 ttys004    0:00.04 /bin/zsh -il
+57958 ttys005    0:00.09 -zsh
+68949 ttys007    0:00.02 /bin/zsh -il
+56812 ttys009    0:00.06 /bin/zsh -il
+64466 ttys009    0:00.00 grep zsh

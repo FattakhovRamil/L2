@@ -1,0 +1,2 @@
+Sometext for test without inputFile
+adftest

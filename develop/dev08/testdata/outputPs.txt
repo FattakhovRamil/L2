@@ -1,0 +1,8 @@
+  PID TTY           TIME CMD
+92093 ttys002    0:00.29 /bin/zsh -il
+11744 ttys004    0:00.04 /bin/zsh -il
+57958 ttys005    0:00.09 -zsh
+68949 ttys007    0:00.02 /bin/zsh -il
+56812 ttys009    0:00.11 /bin/zsh -il
+69001 ttys009    0:00.19 go test -v
+69019 ttys009    0:00.01 /var/folders/zz/zyxvpxvq6csfxvn_n003wfww00z3q7/T/go-build4038567756/b001/task.go.test -test.paniconexit0 -test.timeout=10m0s -test.v=true

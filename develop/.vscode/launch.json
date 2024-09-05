@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+    
+        {
+            "name": "Launch",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "./task",
+            "args": ["task", "--timeout=60s", "localhost", "4567"],
+            "env": {},
+            "cwd": "${workspaceFolder}/dev10",
+            "console": "integratedTerminal"
+        }
+    ]
+}
